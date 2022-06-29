@@ -1,5 +1,5 @@
 # Webvium Translation Project
-![](https://mrepol742.github.io/images/webvium22.jpg)
+![](https://github.com/mrepol742/Webvium-Translation-Project/blob/master/put-it-on-google-translate-google-translate.gif)
 
 
 This repository contains all strings from The Project Webvium. By issuing a pull request to this repository, you can help translating content of Webvium.
