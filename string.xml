@@ -787,7 +787,7 @@
     <string name="c54">Search |</string>
     <string name="c55">Notification Service</string>
     <string name="c56">Push Notifications</string>
-    <string name="c58">Receved notification about what\'s new, recommendation and notices.</string>
+    <string name="c58">Receive notification about what\'s new, recommendation and notices.</string>
     <string name="c59">We\'ll notify you if there\'s a new things.</string>
     <string name="c60">Version %1$s | Build %2$d</string>
 
@@ -800,4 +800,6 @@
     <string name="c70">Solid Background</string>
     <string name="c72">Import Database</string>
     <string name="c73">Images</string>
+    <string name="c74">Web Image Caching</string>
+    <string name="c75">Use LRU Caching Algorithm in loading of images.</string>
 </resources>
