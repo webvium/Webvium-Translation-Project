@@ -1,4 +1,4 @@
-# Webvium Translation Project
+# Webvium Translation Project (currently on hold while the updater is being setup)
 ![](https://github.com/mrepol742/Webvium-Translation-Project/blob/master/put-it-on-google-translate-google-translate.gif)
 
 
