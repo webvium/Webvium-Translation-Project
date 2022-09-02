@@ -1,3 +1,20 @@
+<!--
+  ~
+  ~ Copyright (c) 2022 Melvin Jones Repol (mrepol742.github.io). All Rights Reserved.
+  ~
+  ~ License under the Mrepol742 License, version 1.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     https://github.com/mrepol742/Webvium/blob/master/LICENSE
+  ~
+  ~ Unless required by the applicable law or agreed in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
 <resources>
     <string name="a">General</string>
     <string name="b">Privacy</string>
@@ -221,7 +238,7 @@
     <string name="o10">Interface</string>
     <string name="o11">Home</string>
     <string name="o13">Custom Homepage</string>
-    <string name="o14">Home Icon</string>
+    <string name="o14">Hide Home Icon</string>
     <string name="o18">Custom Text Encoding</string>
     <string name="o19">Slow Whole Document Draw</string>
     <string name="o20">Reduces memory footprint and increases performance</string>
@@ -344,7 +361,7 @@
     <string name="w9">Enabled, Including 3rd Party and File Scheme</string>
     <string name="w10">Auto Cancel</string>
     <string name="w11">Automatically removes the notification when it tap</string>
-    <string name="w12">Notification</string>
+    <string name="w12">Notifications</string>
     <string name="w14">Something went wrong.</string>
     <string name="w15">Screenshot Captured.</string>
     <string name="w16">Screenshot saved.</string>
@@ -357,7 +374,7 @@
     <string name="x3">Copy</string>
     <string name="x5">Fullscreen</string>
     <string name="x7">Click to Open</string>
-    <string name="x8">Clipboard Service</string>
+    <string name="x8">Clipboard</string>
     <string name="x9">Links</string>
     <string name="x10">Show a notification when you copy a url</string>
     <string name="x11">Package Update</string>
@@ -549,7 +566,7 @@
     <string name="m29">Dark Webpage Content</string>
     <string name="m30">We\'ll notify you if there\'s a new update available.</string>
     <string name="n21">Update Service</string>
-    <string name="n22">Backup Service</string>
+    <string name="n22">Backup</string>
     <string name="n26">Audio recording error</string>
     <string name="n27">Other client side errors</string>
     <string name="n28">Insufficient Permissions</string>
@@ -696,7 +713,7 @@
     <string name="z76">Inject</string>
     <string name="z77">Webvium just got Updated</string>
     <string name="z78">Click here to check it out</string>
-    <string name="z79">Package Changed Broadcast Receiver</string>
+    <string name="z79">Update</string>
     <string name="z80">Notify you when Webvium finish updating.</string>
     <string name="z81">Restart</string>
     <string name="z85">Search here</string>
@@ -747,7 +764,7 @@
     <string name="b66">Download Started.</string>
     <string name="b67">&lt;b>We don\'t store your data&lt;/b>&lt;br>We physically can\'t. We have nowhere to store it. We don\'t even have a server database to store it. So even if Elon Musk asked nicely to see your data, we wouldn\'t have anything to show him.&lt;br>&lt;br>&lt;b>App Permission&lt;/b>&lt;br>Camera, Location, Microphone and Storage.&lt;br>&lt;br>You can disable access for these permissions in Settings. Updates to Webvium may automatically add additional capabilities.</string>
     <string name="b68">Continue</string>
-    <string name="b69">💙💙💙\nThank you for downloading our the app\n💙💙💙</string>
+    <string name="b69">💙\nThank you for downloading our the app\n💙</string>
     <string name="b70">We don\'t store your data…</string>
     <string name="b71">Database exported.</string>
     <string name="b72">APK exported.</string>
@@ -786,7 +803,7 @@
     <string name="c53">Confirm to delete all tabs.</string>
     <string name="c54">Search |</string>
     <string name="c55">Notification Service</string>
-    <string name="c56">Push Notifications</string>
+    <string name="c56">Push</string>
     <string name="c58">Receive notification about what\'s new, recommendation and notices.</string>
     <string name="c59">We\'ll notify you if there\'s a new things.</string>
     <string name="c60">Version %1$s | Build %2$d</string>
@@ -802,4 +819,11 @@
     <string name="c73">Images</string>
     <string name="c74">Web Image Caching</string>
     <string name="c75">Use LRU Caching Algorithm in loading of images.</string>
+    <string name="c76">Websites</string>
+    <string name="c77">Customize Notifications</string>
+    <string name="c78">Sound, vibration and appearance options.</string>
+    <string name="c79">Display</string>
+    <string name="c80">Light</string>
+    <string name="c81">Dark</string>
+    <string name="c82">Set Theme</string>
 </resources>
