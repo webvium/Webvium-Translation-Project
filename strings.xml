@@ -768,4 +768,6 @@
     <string name="c81">Dark</string>
     <string name="c82">Set Theme</string>
     <string name="c83">Custom Search Engines</string>
+    <string name="c84">New Tab</string>
+    <string name="c85">Clear All Tab</string>
 </resources>
