@@ -129,7 +129,7 @@
     <string name="f8">Set Cache Mode</string>
     <string name="f10">Captions</string>
     <string name="f14">Bug Report</string>
-    <string name="f16">Clear databases, history, preferences</string>
+    <string name="f16">Clear cache • clear history</string>
     <string name="f17">Clears all storage currently being used by the JavaScript storage APIs. This includes the Application Cache, Web SQL Database and the HTML5 Web Storage APIs.</string>
     <string name="g3">Clears any saved credentials for HTTP authentication</string>
     <string name="g4">Enables debugging of web contents.</string>
@@ -297,16 +297,16 @@
     <string name="t5">Do you really want to clear All Browsing History?</string>
     <string name="t6">Backup</string>
     <string name="t7">Experimental</string>
-    <string name="t8">Home, notification</string>
-    <string name="t9">Theme, background, font</string>
-    <string name="t10">Provider, voice, suggestions</string>
-    <string name="t11">Downloads more options</string>
-    <string name="t12">Data, cookies, location</string>
-    <string name="t13">Zoom, volume control</string>
-    <string name="t14">Security, javascript, performance</string>
-    <string name="t15">Captions, poster</string>
-    <string name="t16">Utilities more options</string>
-    <string name="t19">Interface, gesture</string>
+    <string name="t8">Home • tab queue • notification</string>
+    <string name="t9">Theme • background • font</string>
+    <string name="t10">Provider • voice • suggestions</string>
+    <string name="t11">Downloads options</string>
+    <string name="t12">Data • cookies • location</string>
+    <string name="t13">Zoom • volume control</string>
+    <string name="t14">Security • javascript • content</string>
+    <string name="t15">Captions • poster</string>
+    <string name="t16">Utilities • options</string>
+    <string name="t19">Interface • performance • gesture</string>
     <string name="t20">Clipboard Is Empty.</string>
     <string name="u1">Item Added.</string>
     <string name="u2">Add Bookmark</string>
@@ -537,8 +537,8 @@
     <string name="n35">Speak now!</string>
     <string name="n36">Speech Recognizer is not available on this device.</string>
     <string name="n37">Speak</string>
-    <string name="n39">Touch to open search</string>
-    <string name="n40">Touch to open Webvium</string>
+    <string name="n39">Tap to search</string>
+    <string name="n40">Tap to open Webvium</string>
     <string name="o29">Custom Background Image was been loaded.</string>
     <string name="p30">Failed to change poster image.</string>
     <string name="p33">Failed to change background image.</string>
@@ -705,7 +705,7 @@
     <string name="b62">Hold back icon to see back history urls</string>
     <string name="b63">Hold forward icon to see forward history urls</string>
     <string name="b66">Download Started.</string>
-    <string name="b67">&lt;b>We don\'t store your data&lt;/b>&lt;br>We physically can\'t. We have nowhere to store it. We don\'t even have a server database to store it. So even if Elon Musk asked nicely to see your data, we wouldn\'t have anything to show him.&lt;br>&lt;br>&lt;b>App Permission&lt;/b>&lt;br>Camera, Location, Microphone and Storage.&lt;br>&lt;br>You can disable access for these permissions in Settings. Updates to Webvium may automatically add additional capabilities.</string>
+    <string name="b67">&lt;b>We don\'t store your data&lt;/b>&lt;br>We physically can\'t. We have nowhere to store it. We don\'t even have a server database to store it. So even if Elon Musk asked nicely to see your data, we wouldn\'t have anything to show him.&lt;br>&lt;br>&lt;b>App Permission&lt;/b>&lt;br>Camera, Location, Microphone, Storage and Post Notifications.&lt;br>&lt;br>You can disable access for these permissions in Settings. Updates to Webvium may automatically add additional capabilities.</string>
     <string name="b68">Continue</string>
     <string name="b69">💙\nThank you for downloading our the app\n💙</string>
     <string name="b70">We don\'t store your data…</string>
@@ -727,7 +727,7 @@
     <string name="b89">Cancel</string>
 
 
-    <string name="b97">Ads, Tracking, Error monitoring</string>
+    <string name="b97">Ads • Tracking • Error monitoring</string>
     <string name="b98">Enable ADBlocker</string>
     <string name="b99">Enabling ADBlocker may increase your privacy and fasten the loading of the page.</string>
 
