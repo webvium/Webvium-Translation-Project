@@ -242,8 +242,6 @@
     <string name="p1">Mixed Content Mode</string>
     <string name="p2">Set Mixed Content Mode</string>
     <string name="p3">Webpage favicon.</string>
-    <string name="p4">Renderer Priority Policy</string>
-    <string name="p5">Set Renderer Priority Policy</string>
     <string name="p12">Clear Screenshot</string>
     <string name="p13">Quality</string>
     <string name="p14">Set Quality</string>
@@ -280,9 +278,6 @@
     <string name="s8">Always Allow</string>
     <string name="s9">Compatibility Mode</string>
     <string name="s10">Never Allow</string>
-    <string name="s11">Bound</string>
-    <string name="s12">Important</string>
-    <string name="s13">Waived</string>
     <string name="s14">Page Up</string>
     <string name="s15">Zoom In</string>
     <string name="s16">Page Down</string>
@@ -346,7 +341,6 @@
     <string name="w3">Print</string>
     <string name="w4">Location Permission is needed to get your precise location using the GPS and network-based</string>
     <string name="w5">Location Permission is needed to get your precise location using the GPS and network-based &lt;br>To allow click App Info &lt;b>>>&lt;/b> Permission &lt;b>>>&lt;/b> Location</string>
-    <string name="w6">Sets whether the Application Caches APIs should be enabled</string>
     <string name="w8">Set Action for Volume Down</string>
     <string name="w9">Enabled, Including 3rd Party and File Scheme</string>
     <string name="w12">Notifications</string>
@@ -399,7 +393,6 @@
     <string name="b27">Backup Imported.</string>
     <string name="b28">Failed to Import.</string>
 
-    <string name="b33">Dark theme in web contents\n\n*required restart</string>
     <string name="b34">Apply curvature effect on every edge of the app\n\n*required restart</string>
 
     <string name="b32">Download</string>
@@ -573,7 +566,6 @@
     <string name="s27">Block the device media projection from capturing some of this app contents.</string>
     <string name="s28">Don\'t render the webpage images and video thumbnails to make the load much faster on low memory devices.</string>
     <string name="s29">JavaScript Storage</string>
-    <string name="s30">Application Storage</string>
     <string name="s31">Inspect Elements</string>
     <string name="s32">Design Mode</string>
     <string name="s33">Failed! Inspect Elements was enabled.</string>
@@ -705,9 +697,9 @@
     <string name="b62">Hold back icon to see back history urls</string>
     <string name="b63">Hold forward icon to see forward history urls</string>
     <string name="b66">Download Started.</string>
-    <string name="b67">&lt;b>We don\'t store your data&lt;/b>&lt;br>We physically can\'t. We have nowhere to store it. We don\'t even have a server database to store it. So even if Elon Musk asked nicely to see your data, we wouldn\'t have anything to show him.&lt;br>&lt;br>&lt;b>App Permission&lt;/b>&lt;br>Camera, Location, Microphone, Storage and Post Notifications.&lt;br>&lt;br>You can disable access for these permissions in Settings. Updates to Webvium may automatically add additional capabilities.</string>
+    <string name="b67">&lt;b>We don\'t store your data&lt;/b>&lt;br>We physically can\'t. We have nowhere to store it. We don\'t even have a server database to store it. So even if Elon Musk asked nicely to see your data, we wouldn\'t have anything to show him.&lt;br>&lt;br>&lt;b>App Permission&lt;/b>&lt;br>Camera, Location, Microphone, Storage and Notifications.&lt;br>&lt;br>You can disable access for these permissions in Settings. Updates to Webvium may automatically add additional capabilities.</string>
     <string name="b68">Continue</string>
-    <string name="b69">💙\nThank you for downloading our the app\n💙</string>
+    <string name="b69">💙 Thank you for downloading Webvium 💙</string>
     <string name="b70">We don\'t store your data…</string>
     <string name="b71">Database exported.</string>
     <string name="b72">APK exported.</string>
@@ -716,9 +708,6 @@
     <string name="b79">loading…</string>
     <string name="b80">Logcat</string>
 
-    <string name="b81">Goodnight&lt;3</string>
-    <string name="b82">Goodafternoon&lt;3</string>
-    <string name="b83">Goodmorning&lt;3</string>
     <string name="b84">Remove</string>
     <string name="b85">VPN</string>
     <string name="b86">Webvium VPN</string>
