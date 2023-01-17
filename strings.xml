@@ -410,7 +410,8 @@
     <string name="c40">Incorrect PIN</string>
     <string name="d33">Do you really want to import History Database\nThis will override your Browsing History</string>
     <string name="d34">Do you really want to import Bookmarks Database\nThis will override your Bookmarks</string>
-
+<string name="d35">Websites</string>
+    <string name="d36">Mrepol742</string>
     <string name="d39">Searching for %1$s</string>
     <string name="d40">Size</string>
     <string name="d41">Find on Page</string>
@@ -524,12 +525,13 @@
     <string name="n29">Other network related errors</string>
     <string name="n30">Network operation timeout</string>
     <string name="n31">No recognition result matched</string>
-    <string name="n32">RecognitionService is busy</string>
+    <string name="n32">Voice Search is busy</string>
     <string name="n33">Server sends error status</string>
-    <string name="n34">No speech input</string>
+    <string name="n34">What is it again?</string>
     <string name="n35">Speak now!</string>
     <string name="n36">Speech Recognizer is not available on this device.</string>
     <string name="n37">Speak</string>
+    <string name="n38">I cannot understand your language</string>
     <string name="n39">Tap to search</string>
     <string name="n40">Tap to open Webvium</string>
     <string name="o29">Custom Background Image was been loaded.</string>
