@@ -699,10 +699,10 @@
     <string name="b62">Hold back icon to see back history urls</string>
     <string name="b63">Hold forward icon to see forward history urls</string>
     <string name="b66">Download Started.</string>
-    <string name="b67">&lt;b>We don\'t store your data&lt;/b>&lt;br>We physically can\'t. We have nowhere to store it. We don\'t even have a server database to store it. So even if Elon Musk asked nicely to see your data, we wouldn\'t have anything to show him.&lt;br>&lt;br>&lt;b>App Permission&lt;/b>&lt;br>Camera, Location, Microphone, Storage and Notifications.&lt;br>&lt;br>You can disable access for these permissions in Settings. Updates to Webvium may automatically add additional capabilities.</string>
+    <string name="b67">&lt;b>I don\'t store your data&lt;/b>&lt;br>I physically can\'t. I have nowhere to store it. I don\'t even have a server database to store it. So even if Elon Musk asked nicely to see your data, i wouldn\'t have anything to show him.&lt;br>&lt;br>&lt;b>App Permission&lt;/b>&lt;br>Camera, Location, Microphone, Storage and Notifications.&lt;br>&lt;br>You can disable access for these permissions in Settings. Updates to Webvium may automatically add additional capabilities.</string>
     <string name="b68">Continue</string>
-    <string name="b69">💙 Thank you for downloading Webvium 💙</string>
-    <string name="b70">We don\'t store your data…</string>
+    <string name="b69">💙 Thank you for \ndownloading Webvium 💙</string>
+    <string name="b70">I don\'t store your data…</string>
     <string name="b71">Database exported.</string>
     <string name="b72">APK exported.</string>
     <string name="b73">Force using of dark theme in web contents\n\n*required javascript</string>
