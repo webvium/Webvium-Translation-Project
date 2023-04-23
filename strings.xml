@@ -511,7 +511,7 @@
     <string name="k40">Override URL loading in HTTPS</string>
     <string name="l25">Suggest Bookmarks</string>
     <string name="l26">Suggest History</string>
-    <string name="l32">Floating Webvium</string>
+    <string name="l32">Appear on Top</string>
     <string name="l33">Quick Search</string>
     <string name="m24">There\'s no Internet Connection</string>
     <string name="m25">The device is in Airplane Mode</string>
@@ -533,7 +533,7 @@
     <string name="n37">Speak</string>
     <string name="n38">I cannot understand your language</string>
     <string name="n39">Tap to search</string>
-    <string name="n40">Tap to open Webvium</string>
+    <string name="n40">Tap to open</string>
     <string name="o29">Custom Background Image was been loaded.</string>
     <string name="p30">Failed to change poster image.</string>
     <string name="p33">Failed to change background image.</string>
@@ -595,7 +595,7 @@
     <string name="w22">Unknown</string>
     <string name="w25">Add to Contacts</string>
     <string name="w28">Downloads Icon</string>
-    <string name="w29">When screen goes off Webvium will lock again the activities of webvium that need your security pin</string>
+    <string name="w29">When screen goes off you need to re-enter your PIN again.</string>
     <string name="x36">Hide/Show Navbar</string>
     <string name="x37">Gesture up/down to hide/show navbar</string>
     <string name="x38">Failed! No Internet Connection</string>
@@ -623,7 +623,7 @@
     <string name="y84">Invalid Domain.</string>
     <string name="y89">Close</string>
     <string name="y91">Theme Color Adaptation</string>
-    <string name="y92">Adapt website theme to Webvium Main UI</string>
+    <string name="y92">Adapt website theme to UI</string>
     <string name="y93">Enabled Experimental Features</string>
     <string name="y95">Webvium Javascript Interface</string>
     <string name="y100">ADBlocker</string>
@@ -673,7 +673,6 @@
     <string name="z107">Find Down</string>
     <string name="a41">Request Feature</string>
     <string name="a42">Import</string>
-    <string name="a45">Search Light</string>
     <string name="a46">Suggestions</string>
     <string name="a47">Assistant</string>
     <string name="a48">Make Webvium Search as your device assistant</string>
@@ -688,7 +687,6 @@
     <string name="a60">Only download files if the device is connected to a wifi</string>
     <string name="b50">Apply a background image on webpages\n\n*required restart</string>
     <string name="b51">Apply a custom fonts\n\n*required restart</string>
-    <string name="b52">Webvium</string>
     <string name="b53">Apply a custom poster image</string>
     <string name="b55">Random Background</string>
     <string name="b57">Google Suggestions</string>
