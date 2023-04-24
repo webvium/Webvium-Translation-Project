@@ -1,0 +1,45 @@
+<!--
+  ~
+  ~ Copyright (c) 2023 Melvin Jones Repol (mrepol742.github.io). All Rights Reserved.
+  ~
+  ~ License under the Mrepol742 License, version 1.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     https://github.com/mrepol742/Webvium/blob/master/LICENSE
+  ~
+  ~ Unless required by the applicable law or agreed in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+    <string name="q2">Require PIN to open Webvium Dev</string>
+    <string name="b69">💙 Thank you for \ndownloading Webvium Dev 💙</string>
+    <string name="b58">Allow Webvium Search (Dev) to use Google Search API</string>
+    <string name="a56">Launch Webvium Dev</string>
+    <string name="a48">Make Webvium Search (Dev) as your device assistant</string>
+    <string name="z86">Webvium Dev Request Feature</string>
+    <string name="z68">Webvium Dev Crashed Report</string>
+    <string name="z69">Webvium Dev Bug Report</string>
+    <string name="p20">Webvium Dev</string>
+    <string name="z43">Failed to Backup Webvium Dev</string>
+    <string name="y95">Webvium Dev Javascript Interface</string>
+    <string name="z40">Export Webvium Dev APK</string>
+    <string name="n40">Tap to open Webvium Dev</string>
+    <string name="z57">Successfully Backup Webvium Dev</string>
+    <string name="z77">Webvium Dev just got Updated</string>
+    <string name="c72">Import Database (Dev)</string>
+    <string name="x15">Search (Dev)</string>
+    <string name="j35">Calculator Dev</string>
+    <string name="u27">Lock Webvium Dev</string>
+    <string name="j27">Require Answer to open Webvium Dev</string>
+    <string name="f33">Webvium Dev - Lightweight, Fast, Material and Full-Featured Android Web Browser.\n\nWebsite: \n%1$s</string>
+    <string name="b39">Do you really want to import Settings Database\n\nThis will override your current Settings\n\nWebvium Dev will restart automatically after importing the database.</string>
+    <string name="a25">Click All Apps >> Webvium Dev &lt;b>>>&lt;/b> Don\'t Optimize &lt;b>>>&lt;/b> DONE.</string>
+    <string name="x12">A new version of Webvium Dev is now available to download.</string>
+    <string name="u11">All of Webvium Dev Data will be deleted permanently. This includes all files, settings, databases, backups etc.</string>
+    <string name="u12">When Webvium Dev is in list of Optimized Apps in Battery Optimization, Webvium Dev cannot download any files in background when Battery Saver is on.&lt;br>&lt;br>To add Webvium Dev in Battery Optimization WhiteList click the OK button then click All Apps &lt;b>>>&lt;/b> Webvium Dev &lt;b>>>&lt;/b> Don\'t Optimize &lt;b>>>&lt;/b> DONE.</string>
+</resources>
