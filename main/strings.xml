@@ -165,9 +165,11 @@
     <string name="h20">Desktop Mode</string>
     <string name="i2">Paste &amp; Search</string>
     <string name="i3">Paste</string>
+    <string name="i5">Developer</string>
     <string name="i4">Save Link</string>
     <string name="i6">OK</string>
     <string name="i7">Cancel</string>
+    <string name="i8">Saved to %1$s</string>
     <string name="i11">Clear All History</string>
     <string name="i12">Clear All Bookmarks</string>
     <string name="i13">Clear Bookmarks</string>
@@ -487,7 +489,8 @@
     <string name="j33">Disable Pretend Mode</string>
     <string name="j34">Incorrect Answer.</string>
     <string name="j35">Calculator</string>
-    <string name="j36">Tools</string>
+    <string name="j36">DevTools</string>
+    <string name="j37">Extension</string>
     <string name="j38">Change PIN</string>
     <string name="j39">Old PIN</string>
     <string name="j40">New PIN</string>
@@ -561,6 +564,8 @@
     <string name="r28">+</string>
     <string name="r29">.</string>
     <string name="r30">=</string>
+    <string name="r32">Encode:</string>
+    <string name="r33">Decode:</string>
     <string name="s21">Clear</string>
     <string name="s22">Enter</string>
     <string name="s24">Add to Homescreen</string>
@@ -568,7 +573,7 @@
     <string name="s27">Block the device media projection from capturing some of this app contents.</string>
     <string name="s28">Don\'t render the webpage images and video thumbnails to make the load much faster on low memory devices.</string>
     <string name="s29">JavaScript Storage</string>
-    <string name="s31">Inspect Elements</string>
+    <string name="s31">Inspect Element</string>
     <string name="s32">Design Mode</string>
     <string name="s33">Failed! Inspect Elements was enabled.</string>
     <string name="s34">Failed! Design Mode was enabled.</string>
@@ -727,7 +732,7 @@
     <string name="c46">Enable Anti Tracking</string>
     <string name="c47">Enable Anti Error Monitoring</string>
 
-    <string name="c48">Pause ADBlocker</string>
+    <string name="c48">ADBlocker</string>
 
     <string name="c49">Blocks gif, banner and video ads</string>
     <string name="c50">Blocks hotjar and google analytics</string>
@@ -760,4 +765,5 @@
     <string name="c84">New Tab</string>
     <string name="c85">Clear All Tab</string>
     <string name="c86">New Tab</string>
+    <string name="c87">Permission granted you may now retry it again.</string>
 </resources>
