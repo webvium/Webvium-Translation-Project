@@ -225,6 +225,7 @@
     <string name="m18">8</string>
     <string name="m19">9</string>
     <string name="m20">0</string>
+    <string name="m22">Unable to start Safe Browsing.</string>
     <string name="n1">Theme</string>
     <string name="n2">Hardware</string>
     <string name="n11">Update Service</string>
@@ -426,7 +427,7 @@
     <string name="e30">Chromium</string>
     <string name="f23">Console Panel</string>
     <string name="f24">Execute</string>
-    <string name="f25">Says: %1$s</string>
+    <string name="f25">%1$s says</string>
     <string name="f26">Font</string>
     <string name="f27">Enable Custom Font</string>
     <string name="f28">Custom Primary Font</string>
@@ -440,7 +441,7 @@
     <string name="g25">&lt;b>Host Name:&lt;/b> %1$s&lt;br>&lt;b>IP Address:&lt;/b> %2$s&lt;br>&lt;b>Hash Code:&lt;/b> %3$d&lt;br>&lt;b>Canonical Hostname:&lt;/b> %4$s&lt;br>&lt;b>Wildcard Address:&lt;/b> %5$b&lt;br>&lt;b>Local Address:&lt;/b> %6$b&lt;br>&lt;b>Loopback Address:&lt;/b> %7$b&lt;br>&lt;b>Global Scope:&lt;/b> %8$b&lt;br>&lt;b>Link Scope:&lt;/b> %9$b&lt;br>&lt;b>Node Scope:&lt;/b> %10$b&lt;br>&lt;b>Organization Scope:&lt;/b> %11$b&lt;br>&lt;b>Site Scope:&lt;/b> %12$b&lt;br>&lt;b>IP Multicast Address:&lt;/b> %13$b</string>
     <string name="g28">View %1$s</string>
     <string name="g34">The page you\'re trying to view contains data that has already been submitted (\"POSTDATA\"). If you resend the data, any action the form on the page carried out (such as a search or online purchase) will be repeated.</string>
-    <string name="g36">Form Resubmission</string>
+    <string name="g36">Form</string>
     <string name="g37">Poster</string>
     <string name="g38">Poster Image</string>
     <string name="g39">Custom Poster Image</string>
@@ -766,4 +767,5 @@
     <string name="c85">Clear All Tab</string>
     <string name="c86">New Tab</string>
     <string name="c87">Permission granted you may now retry it again.</string>
+    <string name="c88">Resubmit</string>
 </resources>
