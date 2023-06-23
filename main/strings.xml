@@ -129,7 +129,7 @@
     <string name="f8">Set Cache Mode</string>
     <string name="f10">Captions</string>
     <string name="f14">Bug Report</string>
-    <string name="f16">Clear cache • clear history</string>
+    <string name="f16">Clear cache · clear history</string>
     <string name="f17">Clears all storage currently being used by the JavaScript storage APIs. This includes the Application Cache, Web SQL Database and the HTML5 Web Storage APIs.</string>
     <string name="g3">Clears any saved credentials for HTTP authentication</string>
     <string name="g4">Enables debugging of web contents.</string>
@@ -295,16 +295,16 @@
     <string name="t5">Do you really want to clear All Browsing History?</string>
     <string name="t6">Backup</string>
     <string name="t7">Experimental</string>
-    <string name="t8">Home • tab queue • notification</string>
-    <string name="t9">Theme • background • font</string>
-    <string name="t10">Provider • voice • suggestions</string>
+    <string name="t8">Home · tab queue · notification</string>
+    <string name="t9">Theme · background · font</string>
+    <string name="t10">Provider · voice · suggestions</string>
     <string name="t11">Downloads options</string>
-    <string name="t12">Data • cookies • location</string>
-    <string name="t13">Zoom • volume control</string>
-    <string name="t14">Security • javascript • content</string>
-    <string name="t15">Captions • poster</string>
-    <string name="t16">Utilities • options</string>
-    <string name="t19">Interface • performance • gesture</string>
+    <string name="t12">Data · cookies · location</string>
+    <string name="t13">Zoom · volume control</string>
+    <string name="t14">Security · javascript · content</string>
+    <string name="t15">Captions · poster</string>
+    <string name="t16">Utilities · options</string>
+    <string name="t19">Interface · performance · gesture</string>
     <string name="t20">Clipboard Is Empty.</string>
     <string name="u1">Item Added.</string>
     <string name="u2">Add Bookmark</string>
@@ -613,7 +613,7 @@
     <string name="z40">Export Webvium APK</string>
     <string name="x44">Privacy Policy</string>
     <string name="x45">Export Databases</string>
-    <string name="x56">First Install Time</string>
+    <string name="x56">First installed on:\n</string>
     <string name="y66">Kill</string>
     <string name="y67">Report</string>
     <string name="y69">Experimental</string>
@@ -722,7 +722,7 @@
     <string name="b89">Cancel</string>
 
 
-    <string name="b97">Ads • Tracking • Error monitoring</string>
+    <string name="b97">Ads · images</string>
     <string name="b98">Enable ADBlocker</string>
     <string name="b99">Enabling ADBlocker may increase your privacy and fasten the loading of the page.</string>
 
@@ -744,10 +744,12 @@
     <string name="c56">Push</string>
     <string name="c58">Receive notification about what\'s new, recommendation and notices.</string>
     <string name="c59">We\'ll notify you if there\'s a new things.</string>
-    <string name="c60">Version %1$s | Build %2$d</string>
-
-    <string name="c62">Installer Name</string>
-    <string name="c63">Last Install Time</string>
+    <string name="c60">%1$s (%2$d)</string>
+    <string name="c61">Copyright 2023 Melvin Jones Repol. All rights reserved.</string>
+    <string name="c62">Installed by:\n</string>
+    <string name="c63">Update on:\n</string>
+    <string name="c64">Operating System</string>
+    <string name="c65">WebView Implementation</string>
     <string name="c66">Search Provider Webpage</string>
     <string name="c68">Set Background</string>
     <string name="c69">Transparent Background</string>
