@@ -245,11 +245,13 @@
     <string name="p1">Mixed Content Mode</string>
     <string name="p2">Set Mixed Content Mode</string>
     <string name="p3">Webpage favicon.</string>
+    <string name="p11">More about Webvium</string>
+    <string name="p21">https://mrepol742.github.io/webvium</string>
     <string name="p12">Clear Screenshot</string>
     <string name="p13">Quality</string>
     <string name="p14">Set Quality</string>
     <string name="p15">Zoom</string>
-    <string name="p16">Volume Controls Actions</string>
+    <string name="p16">Volume Keys</string>
     <string name="p17">Volume Up</string>
     <string name="p18">Volume Down</string>
     <string name="p19">Set Action for Volume Up</string>
@@ -743,7 +745,7 @@
     <string name="c55">Notification Service</string>
     <string name="c56">Push</string>
     <string name="c58">Receive notification about what\'s new, recommendation and notices.</string>
-    <string name="c59">We\'ll notify you if there\'s a new things.</string>
+    <string name="c59">Checking...</string>
     <string name="c60">%1$s (%2$d)</string>
     <string name="c61">Copyright 2023 Melvin Jones Repol. All rights reserved.</string>
     <string name="c62">Installed by:\n</string>
