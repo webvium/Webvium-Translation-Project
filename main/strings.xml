@@ -772,4 +772,16 @@
     <string name="c86">New Tab</string>
     <string name="c87">Permission granted you may now retry it again.</string>
     <string name="c88">Resubmit</string>
+     <string name="c89">Cookies</string>
+
+       <string name="c90">key</string>
+         <string name="c91">value</string>
+           <string name="c92">path</string>
+           <string name="c93">hostOnly</string>
+           <string name="c94">domain</string>
+           <string name="c95">creation</string>
+            <string name="c96">lastAccessed</string>
+
+              <string name="c97">There was no cookies yet neither biscuits.</string>
+              <string name="c98">Unable to get cookie.</string>
 </resources>
