@@ -39,7 +39,7 @@
     <string name="f33">Webvium Dev - Lightweight, Fast, Material and Full-Featured Android Web Browser.\n\nWebsite: \n%1$s</string>
     <string name="b39">Do you really want to import Settings Database\n\nThis will override your current Settings\n\nWebvium Dev will restart automatically after importing the database.</string>
     <string name="a25">Click All Apps >> Webvium Dev &lt;b>>>&lt;/b> Don\'t Optimize &lt;b>>>&lt;/b> DONE.</string>
-    <string name="x12">A new version of Webvium Dev is now available to download.</string>
+    <string name="x12">What's New?\n\nThis update can include, but is not limited to:\n\n\tSoftware stability, performance and compatibility updates, bug fixes.\n\tAdded new or enchanced software features.\n\tImproved and address security concerns.\n\nAfter updating, you cannot downgrade to the old version of this Software without uninstalling the new one.\nTo get the best with Webvium Dev Browser, please keep up to date and regularly checks for software updates.</string>
     <string name="u11">All of Webvium Dev Data will be deleted permanently. This includes all files, settings, databases, backups etc.</string>
     <string name="u12">When Webvium Dev is in list of Optimized Apps in Battery Optimization, Webvium Dev cannot download any files in background when Battery Saver is on.&lt;br>&lt;br>To add Webvium Dev in Battery Optimization WhiteList click the OK button then click All Apps &lt;b>>>&lt;/b> Webvium Dev &lt;b>>>&lt;/b> Don\'t Optimize &lt;b>>>&lt;/b> DONE.</string>
 </resources>

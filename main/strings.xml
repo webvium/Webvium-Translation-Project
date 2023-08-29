@@ -364,8 +364,8 @@
     <string name="x8">Clipboard</string>
     <string name="x9">Links</string>
     <string name="x10">Show a notification when you copy a url</string>
-    <string name="x11">Package Update</string>
-    <string name="x12">A new version of Webvium is now available to download.</string>
+    <string name="x11">Update Available</string>
+    <string name="x12">What's New?\n\nThis update can include, but is not limited to:\n\n\tSoftware stability, performance and compatibility updates, bug fixes.\n\tAdded new or enchanced software features.\n\tImproved and address security concerns.\n\nAfter updating, you cannot downgrade to the old version of this Software without uninstalling the new one.\nTo get the best with Webvium Browser, please keep up to date and regularly checks for software updates.</string>
     <string name="x13">Do you really want to clear Session Cookies?</string>
     <string name="x14">Open the app after updating</string>
     <string name="x15">Search</string>
