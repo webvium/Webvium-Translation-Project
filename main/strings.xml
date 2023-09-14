@@ -340,7 +340,6 @@
     <string name="v14">%1$s want\'s to know your device\'s location</string>
     <string name="v15">%1$s can now access your device\'s location.</string>
     <string name="v17">Allow</string>
-    <string name="v188">&lt;br>&lt;b>%1$s&lt;br>&lt;/b>Message: %2$s&lt;br>Line: %3$d&lt;br>Source: %4$s</string>
     <string name="v19">SSL Certificate</string>
     <string name="v20">&lt;b>Link:&lt;/b> %1$s&lt;br>&lt;b>Error Code:&lt;/b> %2$d&lt;br>&lt;b>Description:&lt;/b> %3$s</string>
     <string name="w3">Print</string>
@@ -417,7 +416,6 @@
     <string name="d34">Do you really want to import Bookmarks Database\nThis will override your Bookmarks</string>
     <string name="d35">Websites</string>
     <string name="d36">Mrepol742</string>
-    <string name="d39">Searching for %1$s</string>
     <string name="d40">Size</string>
     <string name="d41">Find on Page</string>
     <string name="e21">Link</string>
@@ -428,7 +426,6 @@
     <string name="e29">Edge</string>
     <string name="e30">Chromium</string>
     <string name="f23">Console Panel</string>
-    <string name="f24">Execute</string>
     <string name="f25">%1$s says</string>
     <string name="f26">Font</string>
     <string name="f27">Enable Custom Font</string>
@@ -523,20 +520,10 @@
     <string name="m25">The device is in Airplane Mode</string>
     <string name="m28">Set Vibration Effect</string>
     <string name="m29">Webpage Content</string>
-    <string name="m30">We\'ll notify you if there\'s a new update available.</string>
     <string name="n22">Backup</string>
-    <string name="n26">Audio recording error</string>
-    <string name="n27">Other client side errors</string>
-    <string name="n28">Insufficient Permissions</string>
-    <string name="n29">Other network related errors</string>
-    <string name="n30">Network operation timeout</string>
-    <string name="n31">No recognition result matched</string>
-    <string name="n32">Voice Search is busy</string>
-    <string name="n33">Server sends error status</string>
     <string name="n34">What is it again?</string>
     <string name="n35">Speak now!</string>
     <string name="n36">Speech Recognizer is not available on this device.</string>
-    <string name="n37">Speak</string>
     <string name="n38">I cannot understand your language</string>
     <string name="n39">Tap to search</string>
     <string name="n40">Tap to open</string>
@@ -555,7 +542,6 @@
     <string name="q25">Clear and close action</string>
     <string name="q26">Shortcut created.</string>
     <string name="q27">Scheme Icon</string>
-    <string name="q28">Refresh and stop action</string>
     <string name="q29">More</string>
     <string name="q30">History Icon</string>
     <string name="r22">&lt;br>&lt;b>Main Frame:&lt;/b> %1$b&lt;br>&lt;b>Gesture:&lt;/b> %2$b&lt;br>&lt;b>Time:&lt;/b> %3$s</string>
@@ -615,7 +601,6 @@
     <string name="z40">Export Webvium APK</string>
     <string name="x44">Privacy Policy</string>
     <string name="x45">Export Databases</string>
-    <string name="x56">First installed on:\n</string>
     <string name="y66">Kill</string>
     <string name="y67">Report</string>
     <string name="y69">Experimental</string>
@@ -641,7 +626,6 @@
     <string name="z54">Failed to set custom font.</string>
     <string name="z55">Custom Font was been loaded.</string>
     <string name="z57">Successfully Backup Webvium</string>
-    <string name="z58">New Tab</string>
     <string name="z59">Camera and Microphone</string>
     <string name="z60">Camera</string>
     <string name="z61">Microphone</string>
@@ -676,7 +660,6 @@
     <string name="z98">Suggest Download</string>
     <string name="z99">Query Type</string>
     <string name="z104">Feedback</string>
-    <string name="z105">Automatically check for update.</string>
     <string name="z106">Find Up</string>
     <string name="z107">Find Down</string>
     <string name="a41">Request Feature</string>
@@ -717,10 +700,6 @@
     <string name="b80">Logcat</string>
 
     <string name="b84">Remove</string>
-    <string name="b85">VPN</string>
-    <string name="b86">Webvium VPN</string>
-    <string name="b87">Package is not installed. Do you want to download and install it?</string>
-    <string name="b88">Continue</string>
     <string name="b89">Cancel</string>
 
 
@@ -728,28 +707,14 @@
     <string name="b98">Enable ADBlocker</string>
     <string name="b99">Enabling ADBlocker may increase your privacy and fasten the loading of the page.</string>
 
-    <string name="c42">Ads</string>
-    <string name="c43">Tracking</string>
-    <string name="c44">Error Monitoring</string>
-    <string name="c45">Enable Anti Ads</string>
-    <string name="c46">Enable Anti Tracking</string>
-    <string name="c47">Enable Anti Error Monitoring</string>
-
     <string name="c48">ADBlocker</string>
 
-    <string name="c49">Blocks gif, banner and video ads</string>
-    <string name="c50">Blocks hotjar and google analytics</string>
-    <string name="c52">Blocks sentry and bugsnag</string>
     <string name="c53">Confirm to delete all tabs.</string>
-    <string name="c54">Search |</string>
     <string name="c55">Notification Service</string>
     <string name="c56">Push</string>
-    <string name="c58">Receive notification about what\'s new, recommendation and notices.</string>
     <string name="c59">Checking...</string>
     <string name="c60">%1$s (%2$d)</string>
     <string name="c61">Copyright 2023 Melvin Jones Repol. All rights reserved.</string>
-    <string name="c62">Installed by:\n</string>
-    <string name="c63">Update on:\n</string>
     <string name="c64">Operating System</string>
     <string name="c65">WebView Implementation</string>
     <string name="c66">Search Provider Webpage</string>
