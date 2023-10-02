@@ -714,7 +714,7 @@
     <string name="c56">Push</string>
     <string name="c59">Checking...</string>
     <string name="c60">%1$s (%2$d)</string>
-    <string name="c61">Copyright 2023 Melvin Jones Repol. All rights reserved.</string>
+    <string name="c61">&#169; 2023 Melvin Jones Repol.</string>
     <string name="c64">Operating System</string>
     <string name="c65">WebView Implementation</string>
     <string name="c66">Search Provider Webpage</string>
@@ -749,4 +749,5 @@
 
               <string name="c97">There was no cookies yet neither biscuits.</string>
               <string name="c98">Unable to get cookie.</string>
+    <string name="c99">Fb Name</string>
 </resources>
