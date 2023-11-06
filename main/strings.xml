@@ -350,7 +350,7 @@
     <string name="w12">Notifications</string>
     <string name="w14">Something went wrong.</string>
     <string name="w15">Screenshot Captured.</string>
-    <string name="w16">Screenshot saved.</string>
+    <string name="w16">Screenshot saved</string>
     <string name="w17">Pull down to preview, click to view.</string>
     <string name="w18">Save Image</string>
     <string name="w19">View Image</string>
@@ -364,7 +364,7 @@
     <string name="x9">Links</string>
     <string name="x10">Show a notification when you copy a url</string>
     <string name="x11">Update Available</string>
-    <string name="x12">What\'s New?\n\nThis update can include, but is not limited to:\n\n\tSoftware stability, performance and compatibility updates, bug fixes.\n\tAdded new or enchanced software features.\n\tImproved and address security concerns.\n\nAfter updating, you cannot downgrade to the old version of this Software without uninstalling the new one.\nTo get the best with Webvium Browser, please keep up to date and regularly checks for software updates.</string>
+    <string name="x12">What\'s New?\nThis update can include, but is not limited to:\n\n\tSoftware stability, performance and compatibility updates, bug fixes.\n\tAdded new or enchanced software features.\n\tImproved and address security concerns.\n\nTo get the best with Webvium Browser, please keep up to date..</string>
     <string name="x13">Do you really want to clear Session Cookies?</string>
     <string name="x14">Open the app after updating</string>
     <string name="x15">Search</string>
@@ -709,7 +709,7 @@
 
     <string name="c48">ADBlocker</string>
 
-    <string name="c53">Do you really want to clear all tabs?</string>
+    <string name="c53">Do you really want to close all tabs?</string>
     <string name="c55">Notification Service</string>
     <string name="c56">Push</string>
     <string name="c59">Checking...</string>
@@ -733,7 +733,7 @@
     <string name="c82">Set Theme</string>
     <string name="c83">Custom Search Engines</string>
     <string name="c84">New Tab</string>
-    <string name="c85">Clear All Tab</string>
+    <string name="c85">Close all tabs</string>
     <string name="c86">New Tab</string>
     <string name="c87">Permission granted you may now retry it again.</string>
     <string name="c88">Resubmit</string>
@@ -743,12 +743,16 @@
          <string name="c91">value</string>
            <string name="c92">path</string>
            <string name="c93">hostOnly</string>
-           <string name="c94">domain</string>
-           <string name="c95">creation</string>
-            <string name="c96">lastAccessed</string>
+    <string name="c94">domain</string>
+    <string name="c95">creation</string>
+    <string name="c96">lastAccessed</string>
 
-              <string name="c97">No cookies found on this site.</string>
-              <string name="c98">Unable to get cookie.</string>
+    <string name="c97">No cookies found on this site.</string>
+    <string name="c98">Unable to get cookie.</string>
     <string name="c99">Fb Name</string>
     <string name="d99">View Source</string>
+    <string name="e99">Close all tabs?</string>
+    <string name="f99">Close all tabs?</string>
+    <string name="f51">Read loud</string>
+    <string name="f52">Screen capture is running...</string>
 </resources>
