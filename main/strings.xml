@@ -227,7 +227,7 @@
     <string name="m22">Unable to start Safe Browsing.</string>
     <string name="n1">Theme</string>
     <string name="n2">Hardware</string>
-    <string name="n11">Automatically Check Software Update</string>
+    <string name="n11">Auto Update</string>
     <string name="n12">Software Update</string>
     <string name="o1">Restarting Webvium…</string>
     <string name="o5">Open</string>
@@ -735,7 +735,7 @@
     <string name="c95">creation</string>
     <string name="c96">lastAccessed</string>
 
-    <string name="c97">No cookies found on this site.</string>
+    <string name="c97">You haven\'t login to this site.</string>
     <string name="c98">Unable to get cookie.</string>
     <string name="d99">View Source</string>
     <string name="e99">Close all tabs?</string>
@@ -749,4 +749,7 @@
     <string name="f58">Browse confidently with Webvium, as we prioritize your safety by providing advanced security features and robust privacy settings to safeguard your data and empower you with tools to manage your digital footprint, ensuring your privacy is our utmost concern.</string>
     <string name="f59">Skip</string>
     <string name="f60">Hello, World</string>
+    <string name="f61">Orion Instance</string>
+    <string name="f62">Facebook State</string>
+    <string name="f63">You are already using the latest version!</string>
 </resources>
