@@ -18,9 +18,7 @@
 <resources>
     <string name="q2">Require PIN to open Webvium Dev</string>
     <string name="b69">💙 Thank you for \ndownloading Webvium Dev 💙</string>
-    <string name="b58">Allow Webvium Search (Dev) to use Google Search API</string>
     <string name="a56">Launch Webvium Dev</string>
-    <string name="a48">Make Webvium Search (Dev) as your device assistant</string>
     <string name="z86">Webvium Dev Request Feature</string>
     <string name="z68">Webvium Dev Crashed Report</string>
     <string name="z69">Webvium Dev Bug Report</string>
@@ -31,11 +29,6 @@
     <string name="n40">Tap to open Webvium Dev</string>
     <string name="z57">Successfully Backup Webvium Dev</string>
     <string name="z77">Webvium Dev just got Updated</string>
-    <string name="c72">Import Database (Dev)</string>
-    <string name="x15">Search (Dev)</string>
-    <string name="j35">Calculator Dev</string>
-    <string name="u27">Lock Webvium Dev</string>
-    <string name="j27">Require Answer to open Webvium Dev</string>
     <string name="f33">Webvium Dev - Lightweight, Fast, Material and Full-Featured Android Web Browser.\n\nWebsite: \n%1$s</string>
     <string name="b39">Do you really want to import Settings Database\n\nThis will override your current Settings\n\nWebvium Dev will restart automatically after importing the database.</string>
     <string name="a25">Click All Apps >> Webvium Dev &lt;b>>>&lt;/b> Don\'t Optimize &lt;b>>>&lt;/b> DONE.</string>
